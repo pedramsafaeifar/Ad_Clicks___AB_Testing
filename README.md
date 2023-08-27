@@ -1,4 +1,4 @@
-Using Python and its associated modules, in this notebook I performed data analysis on the information obtained from testing two distinct advertisements.
+Using Python and its associated modules, in this notebook I performed data analysis on the data obtained from testing two distinct advertisements.
 
 **Background:**
 
